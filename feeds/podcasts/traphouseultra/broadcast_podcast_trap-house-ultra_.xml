@@ -13,7 +13,11 @@
       <itunes:email>The TrapHouseCoders@TrapHouseUltra.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/Trap_House_Ultra_Podcast_Image_v2.jpg" />
-    <itunes:category text="Careers"/>
+    
+    <itunes:category text="Careers">
+      <itunes:category text="Entrepreneurship" />
+    </itunes:category>
+    
     <itunes:explicit>true</itunes:explicit>
 
     <item>
