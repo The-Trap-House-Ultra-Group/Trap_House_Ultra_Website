@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Trap House Ultra</title>
+    <link>Https://www.traphouseultra.com</link>
+    <language>en-us</language>
+    <copyright>The Trap House Ultra Group </copyright>
+    <itunes:subtitle>Combat Veteran Coders Talk Life, Business, Tech, Current Events, and The Future</itunes:subtitle>
+    <itunes:author>The Trap House Coders</itunes:author>
+    <itunes:summary>Black and White Combat Veteran Family Men Casadaro and Charlie Share Their Struggles, Successes, thoughts and ideas, while they build a brand and a business.</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>The Trap House Ultra Group</itunes:name>
+      <itunes:email>The TrapHouseCoders@TrapHouseUltra.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/Trap_House_Ultra_Podcast_Image_v2.jpg" />
+    <itunes:category text="Careers"/>
+    <itunes:explicit>true</itunes:explicit>
+
+    <item>
+      <title>The Big Idea Shooting The Shit</title>
+      <itunes:author>The Trap House Coders</itunes:author>
+      <itunes:subtitle>What its Liking Leaving The Military Fired, Windows Vs Mac and Starting A Business</itunes:subtitle>
+      <itunes:summary> Get To know the Hosts Casadaro and Charlie while they talk about family, work, careers, and life. </itunes:summary>
+      <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/" />
+      <enclosure url="/feeds/podcasts/traphouseultra/episodes/" length="" type="audio/mpeg"/>
+      <guid>podcast_trap-house-ultra_broadcast_01</guid>
+      <pubDate>Fri Jan 31 2020 02:59:10 GMT-0800 (Pacific Standard Time)</pubDate>
+      <itunes:duration>01:15:26</itunes:duration>
+    </item>
+  </channel>
+  </rss>
