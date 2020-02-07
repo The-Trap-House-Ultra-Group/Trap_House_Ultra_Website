@@ -19,16 +19,29 @@
     <itunes:explicit>true</itunes:explicit>
 
     <item>
-      <title>The 2020 Super Bowl And The Futer Of Football And the Internet</title>
+      <title>The 2020 Super Bowl And The Future Of Football And the Internet - Part One</title>
       <link>https://www.traphouseultra.com/broadcasts/podcasts/trap_house_ultra</link>
       <itunes:author>The Trap House Coders</itunes:author>
-      <itunes:subtitle>Starting a Software Business And The 2020 Super Bowl And The Futer Of Football And the Internet </itunes:subtitle>
+      <itunes:subtitle>Charlie Murphy Is A Die Hard Fan and The Real Casadaro has Some Conspiracy theries</itunes:subtitle>
       <itunes:summary> Get To know the Hosts Casadaro and Charlie while they talk about  The 2020 SUPER BOWL The Future of Football And THE Internet. </itunes:summary>
       <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/trap_house_ultra_podcast_image_v2.jpg"/>
-      <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/Trap_House_Ultra_SuperBowl_Special_Part1_audio.mp3" length="72429568" type="audio/mpeg"/>
+      <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/TrapHouse_Ultra_SuperBowl_Special_part1_audio.mp3" length="46473216" type="audio/mpeg"/>
       <guid>podcast_trap-house-ultra_broadcast_01</guid>
       <pubDate>Thu Feb 06 2020 02:59:10 GMT-0800 (Pacific Standard Time)</pubDate>
-      <itunes:duration>1:15:26</itunes:duration>
+      <itunes:duration>00:24:16</itunes:duration>
+    </item>
+
+    <item>
+      <title>The 2020 Super Bowl And The Futer Of Football And the Internet - Part Two</title>
+      <link>https://www.traphouseultra.com/broadcasts/podcasts/trap_house_ultra</link>
+      <itunes:author>The Trap House Coders; The Real Casadaro and Charlie Murphy Reloaded</itunes:author>
+      <itunes:subtitle>Vince McMahon starts the XLF Charlie Murphy Reloaded and The Real Casadaro Create The Cyber NFL</itunes:subtitle>
+      <itunes:summary> Get To know the Hosts Casadaro and Charlie while they talk about the far out futeristic posibilities of football, gaming, and the internet. </itunes:summary>
+      <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/trap_house_ultra_podcast_image_v2.jpg"/>
+      <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/TrapHouse_Ultra_SuperBowl_Special_part2_audio.mp3" length="46473216" type="audio/mpeg"/>
+      <guid>podcast_trap-house-ultra_broadcast_01</guid>
+      <pubDate>Fri Feb 07 2020 08:44:10 GMT-0800 (Pacific Standard Time)</pubDate>
+      <itunes:duration>00:32:18</itunes:duration>
     </item>
 
   </channel>
