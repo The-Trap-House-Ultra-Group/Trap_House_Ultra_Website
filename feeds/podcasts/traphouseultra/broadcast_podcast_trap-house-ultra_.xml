@@ -19,16 +19,17 @@
     <itunes:explicit>true</itunes:explicit>
 
     <item>
-      <title>The Big Idea Shooting Bull And Starting A Software Business</title>
+      <title>The 2020 Super Bowl And The Futer Of Football And the Internet</title>
       <link>https://www.traphouseultra.com/broadcasts/podcasts/trap_house_ultra</link>
       <itunes:author>The Trap House Coders</itunes:author>
-      <itunes:subtitle>What its Liking Leaving The Military Fired, Windows Vs Mac and Starting A Business</itunes:subtitle>
-      <itunes:summary> Get To know the Hosts Casadaro and Charlie while they talk about family, work, careers, and life. </itunes:summary>
+      <itunes:subtitle>Starting a Software Business And The 2020 Super Bowl And The Futer Of Football And the Internet </itunes:subtitle>
+      <itunes:summary> Get To know the Hosts Casadaro and Charlie while they talk about  The 2020 SUPER BOWL The Future of Football And THE Internet. </itunes:summary>
       <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/trap_house_ultra_podcast_image_v2.jpg"/>
-      <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/The_Beginning_And_The_Big_Idea_Combat_Vets_And_Hustlers_Writing_Code.mp3" length="72429568" type="audio/mpeg"/>
+      <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/Trap_House_Ultra_SuperBowl Special_Part1_audio.mp3" length="72429568" type="audio/mpeg"/>
       <guid>podcast_trap-house-ultra_broadcast_01</guid>
       <pubDate>Fri Jan 31 2020 02:59:10 GMT-0800 (Pacific Standard Time)</pubDate>
       <itunes:duration>1:15:26</itunes:duration>
     </item>
+
   </channel>
   </rss>
