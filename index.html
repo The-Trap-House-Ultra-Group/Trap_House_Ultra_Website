@@ -14,6 +14,17 @@
 
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/hero.css">
+
+    <script>
+        //load TrackerJS
+        !function(t,n,e,o,a){function d(t){var n=~~(Date.now()/3e5),o=document.createElement(e);o.async=!0,o.src=t+"?ts="+n;var a=document.getElementsByTagName(e)[0];a.parentNode.insertBefore(o,a)}t.MooTrackerObject=a,t[a]=t[a]||function(){return t[a].q?void t[a].q.push(arguments):void(t[a].q=[arguments])},window.attachEvent?window.attachEvent("onload",d.bind(this,o)):window.addEventListener("load",d.bind(this,o),!1)}(window,document,"script","//cdn.stat-track.com/statics/moosend-tracking.min.js","mootrack");
+        //tracker has to be initialized otherwise it will generate warnings and wont sendtracking events
+        mootrack('init', 'a439dcd9cc9e4670822a22b75603390c');
+        // track a view of the current page
+        mootrack('trackPageView');
+    </script>
+    
+
 </head>
 
 <body>
@@ -21,7 +32,7 @@
         <div class="hero-text">
           <h1>Trap House Ultra</h1>
           <p>Free Your Mind</p>
-          <!-- <button>Subscribe</button> -->
+          <!-- <button onclick=""/updates">Subscribe</button> -->
         </div>
       </div>
 
