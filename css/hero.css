@@ -6,13 +6,16 @@
 
 
     .hero-image {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/TrapHouseCoders_CharlieMurphyReloaded_V2.png") left no-repeat, url("/images/TrapHouseCoders_TheRealCasadaro_V1.png") right no-repeat;
+        /* background-image:url("/images/TrapHouseCoders_CharlieMurphyReloaded_V2.png"), linear-gradient(rgba(240, 97, 2, 0.5), rgba(255, 255, 255, 0.5)); */
+        background-image:url("/images/TrapHouseCoders_TheRealCasadaro_V1.png"),url("/images/TrapHouseCoders_CharlieMurphyReloaded_V2_mobile.png"),  linear-gradient(rgba(240, 97, 2, 0.5), rgba(255, 255, 255, 0.5)), url("/images/basackground_scenes/retro-wave-lamborghini-neon-city-5k-ny-1440x900.jpg");
         background-repeat: no-repeat;
         height: 50%;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
+        text-transform: uppercase;
+            text-shadow: 2px 2px purple;
     }
     
     .hero-text {
@@ -21,7 +24,7 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        color: white;
+        color: black;
     }
     
     .hero-text button {
@@ -49,13 +52,14 @@
         }
 
         .hero-image {
-            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/TrapHouseCoders_CharlieMurphyReloaded_V2_mobile.png") left no-repeat, url("/images/TrapHouseCoders_TheRealCasadaro_V1_mobile.png") right no-repeat;
+            background:url("/images/TrapHouseCoders_CharlieMurphyReloaded_V2_mobile.png"), url("/images/TrapHouseCoders_TheRealCasadaro_V1_mobile.png"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), ;
             background-repeat: no-repeat;
             height: 25%;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
             position: relative;
+            
         }
 
         .description>h1{
