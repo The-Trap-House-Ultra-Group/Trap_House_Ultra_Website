@@ -49,7 +49,7 @@
         }
 
         .hero-image {
-            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/TrapHouseCoders_CharlieMurphyReloaded_V2.png") left no-repeat, url("/images/TrapHouseCoders_TheRealCasadaro_V1.png") right no-repeat;
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/TrapHouseCoders_CharlieMurphyReloaded_V2_mobile.png") left no-repeat, url("/images/TrapHouseCoders_TheRealCasadaro_V1_mobile.png") right no-repeat;
             background-repeat: no-repeat;
             height: 25%;
             background-position: center;
