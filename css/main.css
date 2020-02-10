@@ -40,6 +40,10 @@ nav{
 }
 
 .horizontal-nav>:last-child{
-    background-color: orange;
     padding-right: 0px;
 }
+
+.row{
+    padding:20px 0;
+}
+
