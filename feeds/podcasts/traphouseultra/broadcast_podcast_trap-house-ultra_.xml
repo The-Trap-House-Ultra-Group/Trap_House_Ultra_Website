@@ -5,7 +5,7 @@
     <link>https://www.traphouseultra.com</link>
     <language>en-us</language>
     <copyright>The Trap House Ultra Group</copyright>
-    <itunes:subtitle>Combat Veteran Coders Talk Life, Business, Tech, Current Events, and The Future</itunes:subtitle>
+    <itunes:subtitle>Combat Veteran Coders Talk Life, Business, Tv, Movies, Games</itunes:subtitle>
     <itunes:author>The Trap House Coders</itunes:author>
     <itunes:summary>Black and White Combat Veteran Family Men Casadaro and Charlie Share Their Struggles, Successes, thoughts and ideas, while they build a brand and a business.</itunes:summary>  
     <itunes:owner>
@@ -17,6 +17,19 @@
       <itunes:category text="Entrepreneurship"/>
     </itunes:category>
     <itunes:explicit>true</itunes:explicit>
+
+    <item
+      <title>003: TV MOVIES GAMES CRYPTO YEEZY AND THE REAL LIFE WAKONDA STARTED BY AKON</title>
+      <link>https://www.traphouseultra.com/broadcasts/podcasts/trap_house_ultra</link>
+      <pubDate>Thu Feb 14 2020 14:20:20 GMT-0800 (Pacific Standard Time)</pubDate>
+      <guid isPermaLink="false">podcast_trap-house-ultra_broadcast_E03_S01</guid>
+      <itunes:author>The Trap House Coders</itunes:author>
+      <itunes:subtitle>Charlie Murphy Is A Die Hard Fan and The Real Casadaro has Some Conspiracy theries</itunes:subtitle>
+      <itunes:summary>Casadaro and Charlie Talk TV, Movies, Games, Crypto Currency, . </itunes:summary>
+      <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/trap_house_ultra_podcast_image_v2.jpg"/>
+      <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/TrapHouseUltra_E03_S01_TV_0Movies_Crypto_Currency.mp3" length="41773521" type="audio/mpeg"/>
+      <itunes:duration>00:21:31</itunes:duration>
+    </item>
 
     <item>
       <title>002: The 2020 Super Bowl And The Futer Of Football And the Internet - Part Two</title>
@@ -43,6 +56,5 @@
       <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/TrapHouse_Ultra_SuperBowl_Special_part1_audio.mp3" length="46473216" type="audio/mpeg"/>
       <itunes:duration>00:23:54</itunes:duration>
     </item>
-
   </channel>
   </rss>
