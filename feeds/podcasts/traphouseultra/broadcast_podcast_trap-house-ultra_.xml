@@ -18,7 +18,7 @@
     </itunes:category>
     <itunes:explicit>true</itunes:explicit>
 
-    <item
+    <!-- <item
       <title>003: TV MOVIES GAMES CRYPTO YEEZY AND THE REAL LIFE WAKONDA STARTED BY AKON</title>
       <link>https://www.traphouseultra.com/broadcasts/podcasts/trap_house_ultra</link>
       <pubDate>Thu Feb 14 2020 14:20:20 GMT-0800 (Pacific Standard Time)</pubDate>
@@ -29,7 +29,7 @@
       <itunes:image href="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/images/trap_house_ultra_podcast_image_v2.jpg"/>
       <enclosure url="https://www.traphouseultra.com/feeds/podcasts/traphouseultra/episodes/TrapHouseUltra_E03_S01_TV_0Movies_Crypto_Currency.mp3" length="41773521" type="audio/mpeg"/>
       <itunes:duration>00:21:31</itunes:duration>
-    </item>
+    </item> -->
 
     <item>
       <title>002: The 2020 Super Bowl And The Futer Of Football And the Internet - Part Two</title>
